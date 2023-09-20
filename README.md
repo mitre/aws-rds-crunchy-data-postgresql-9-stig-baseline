@@ -25,20 +25,11 @@ pg_owner: ''
 # The system group of the progress process
 pg_group: ''
 
-# The postgres database owner password
-pg_owner_password: ''
-
 # The postgres DBA user to access the test database
 pg_dba: ''
 
 # The password for the postgres DBA user
 pg_dba_password: ''
-
-# The postgres daatabase system user
-pg_user: ''
-
-# The postgres database system user password
-pg_user_password: ''
 
 # The hostname or IP address used to connect to the database
 pg_host: ''
